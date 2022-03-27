@@ -2,11 +2,11 @@
 content_type: page
 learning_resource_types:
 - Lecture Notes
-ocw_type: CourseSection
 parent_title: Lecture Notes
 parent_type: CourseSection
 parent_uid: 2bce6e8a-2a58-6ace-9ceb-5702239955bc
 title: Session 1
+type: CourseSection
 uid: c8d702da-21e3-79fe-1471-193591658a8d
 ---
 

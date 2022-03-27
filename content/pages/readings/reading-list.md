@@ -2,11 +2,11 @@
 content_type: page
 learning_resource_types:
 - Readings
-ocw_type: CourseSection
 parent_title: Readings
 parent_type: CourseSection
 parent_uid: cc3e769c-c951-7945-d81c-8ffd8494c81f
 title: Reading List
+type: CourseSection
 uid: 2f49a77a-aaa5-c2ca-4151-3b39a5312219
 ---
 
