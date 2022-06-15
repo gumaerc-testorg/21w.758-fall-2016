@@ -1,8 +1,8 @@
 ---
 content_type: page
+description: This section contains details about course requirements and expectations.
 learning_resource_types: []
 ocw_type: ''
-parent_uid: null
 title: Syllabus
 uid: 78335934-2bd4-a003-414a-f977ff6e68ac
 ---

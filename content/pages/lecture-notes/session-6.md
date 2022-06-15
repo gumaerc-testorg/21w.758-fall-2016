@@ -1,12 +1,13 @@
 ---
 content_type: page
+description: This section contains lecture notes for Session 6.
 learning_resource_types:
 - Lecture Notes
+ocw_type: ''
 parent_title: Lecture Notes
 parent_type: CourseSection
 parent_uid: 2bce6e8a-2a58-6ace-9ceb-5702239955bc
 title: Session 6
-type: CourseSection
 uid: 5f82db5a-d2a9-edcb-e016-853c543ee978
 ---
 
