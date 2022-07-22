@@ -5,6 +5,7 @@ file: /courses/21w-758-genre-fiction-workshop-fantasy-fall-2016/0e235bf6c620651d
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 parent_title: Assignments
 parent_type: CourseSection
