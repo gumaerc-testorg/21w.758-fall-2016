@@ -29,7 +29,9 @@
   },
   "course_title": "Genre Fiction Workshop: Fantasy",
   "course_description": "Fantasy is currently one of the most popular genres across every platform in fiction. From film to gaming to literature, fantasy tops the charts. Why? Why do people who believe in democracy and live with the magic technology appear to long for wizards and dragons and the matters of kingship? In this class, we will explore this question, and from that base read articles, novels, write exercises and stories in this genre.\n",
-  "department_numbers": [],
+  "department_numbers": [
+    "CMS-W"
+  ],
   "extra_course_numbers": "",
   "primary_course_number": "21W.758",
   "course_image_thumbnail": {
@@ -40,6 +42,6 @@
     "Lecture Notes",
     "Written Assignments with Examples"
   ],
-  "site_uid": "8d3c8e8c-7637-4ef7-bf92-3732cd922f10",
+  "site_uid": "a3be0787-d0a1-4264-9042-5bc44016c94d",
   "title": "Course Metadata"
 }
