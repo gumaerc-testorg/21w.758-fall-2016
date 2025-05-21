@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/21w-758-genre-fiction-workshop-fantasy-fall-2016/bf32ec5bd2f4909f212dc60bfb5ff5fb_21W-758f16castle.jpg
+file: /courses/21w-758-genre-fiction-workshop-fantasy-fall-2016/bf32ec5bd2f4909f212dc60bfb5ff5fb_21W-758f16castle.jpg
 file_size: 28155
 file_type: image/jpeg
 image_metadata:
