@@ -25,6 +25,6 @@ Carey & sexuality
 
 Garrett - alternate history
 
-*   [House of Plantagenet](https://en.wikipedia.org/wiki/House_of_Plantagenet) & Poland & Gaslight
+*   {{% resource_link "f3a10ce4-aefa-4f74-957e-e4af9b353cdf" "House of Plantagenet" %}} & Poland & Gaslight
 
 Exercises - images
