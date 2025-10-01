@@ -30,7 +30,7 @@ Kingship is _Identity_
 
 The _true_ King must be _indentified_ and must _take on_ that identity willingly
 
-[Éminance grise](https://en.wikipedia.org/wiki/%C3%89minence_grise) - Richelieu
+{{% resource_link "64ad0477-b2e9-40cd-9ab7-de3e0627814d" "Éminance grise" %}} - Richelieu
 
 (The metaphor made concrete, after all)
 

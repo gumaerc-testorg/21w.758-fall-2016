@@ -56,4 +56,4 @@ For the English speaking world, that mythos is Arthur
 
 _Reference:_
 
-Bettleheim, Bruno. _The Uses of Enchantment: The Meaning and Importance of Fairy Tales_. Vintage Books, 2010. ISBN: 9780307739636. \[Preview with [Google Books](https://books.google.com/books?id=7WiODQAAQBAJ&lpg=PP1&pg=PP1#v=onepage&q&f=false)\]
+Bettleheim, Bruno. _The Uses of Enchantment: The Meaning and Importance of Fairy Tales_. Vintage Books, 2010. ISBN: 9780307739636. \[Preview with {{% resource_link "a64d40ed-6cbd-4a67-ad69-b2345706dc9c" "Google Books" %}}\]

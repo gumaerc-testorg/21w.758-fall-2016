@@ -77,14 +77,14 @@ Grimdark - medieval world
 
 Science Fantasy worlds
 
-*   McCaffery, Anne. _Dragonflight (Dragonriders of Pern - Volume 1)_. Ballantine Books, 1986. ISBN: 9780345335463. ([Suggested reading orders of books and stories in Anne McCaffery's Pern series (PDF)](http://pernhome.com/aim/2006-Pern-Reading-Order.pdf))
+*   McCaffery, Anne. _Dragonflight (Dragonriders of Pern - Volume 1)_. Ballantine Books, 1986. ISBN: 9780345335463. ({{% resource_link "b80d6a04-e4f8-4ea4-9f84-c2b88a3f03c5" "Suggested reading orders of books and stories in Anne McCaffery's Pern series (PDF)" %}})
     
-*   Bradley, Marion Zimmer. _Darkover Landfall_. RH Canada UK Distribution, 1987. ISBN: 9780099154105. ([Reading order of books in Marion Zimmer Bradley's Darkover series](https://www.librarything.com/series/Darkover%3A+Chronological+order))
+*   Bradley, Marion Zimmer. _Darkover Landfall_. RH Canada UK Distribution, 1987. ISBN: 9780099154105. ({{% resource_link "8195a383-fbee-4114-a90d-c2fec9292622" "Reading order of books in Marion Zimmer Bradley's Darkover series" %}})
     
-*   Norton, Andre. _Witch World_. Ace, 1963. ([Publication order](https://www.librarything.com/series/Witch+World+-+publication+order) of the Witch World series; [Reading order](http://www.andre-norton-books.com/the-witch-world/the-sorcerer-s-conspectus/977-ww-reading-order#ro-2) recommended by fans)
+*   Norton, Andre. _Witch World_. Ace, 1963. ({{% resource_link "ff973c7a-86e7-4c88-8d1b-b3638d0941a0" "Publication order" %}} of the Witch World series; {{% resource_link "5fad0ce9-76ee-4cc3-ac1c-80aadfa34df7" "Reading order" %}} recommended by fans)
     
 
-[_Gaslight Victorian Fantasy_](http://www.rpgnow.com/product/117570/Gaslight-Victorian-Fantasy-2nd-Edition-Savage-Worlds-Edition). Battlefield Press, 2015. (Steampunk but fantasy)
+{{% resource_link "2c0f5d8d-4ace-4857-a50f-887beca49ac7" "_Gaslight Victorian Fantasy_" %}}. Battlefield Press, 2015. (Steampunk but fantasy)
 
 Culture & aesthetic but play fast & loose with the history (Carey)
 
@@ -100,5 +100,5 @@ Research/lack of research
 
 Historical/non-medieval:
 
-*   [Guy Gavriel Kay](https://en.wikipedia.org/wiki/Guy_Gavriel_Kay)
-*   [Judith Tarr](https://en.wikipedia.org/wiki/Judith_Tarr)
+*   {{% resource_link "3392da99-ebd0-4b9e-a73e-1b3c2d5dafcc" "Guy Gavriel Kay" %}}
+*   {{% resource_link "67570708-a0c0-42dc-99de-96443db0a47d" "Judith Tarr" %}}
