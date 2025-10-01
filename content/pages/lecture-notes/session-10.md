@@ -78,10 +78,10 @@ _References:_
 
 Vogt, A. E. van. _Silkie_. Second printing edition. Ace, 1969. ISBN: 9780441765027.
 
-[Hind Horn](https://en.wikipedia.org/wiki/Hind_Horn)
+{{% resource_link "c0350b8b-8d3c-4553-a049-ce48c21a13ea" "Hind Horn" %}}
 
-[Thomas the Rhymer](https://en.wikipedia.org/wiki/Thomas_the_Rhymer)
+{{% resource_link "4db04e03-c586-4d0a-a172-d28e0ac34029" "Thomas the Rhymer" %}}
 
-[The Unquiet Grave](https://en.wikipedia.org/wiki/The_Unquiet_Grave)
+{{% resource_link "ffd1e48f-7214-4752-895d-5fe8c98e381b" "The Unquiet Grave" %}}
 
-[The Devil and the Farmer's Wife](https://maxhunter.missouristate.edu/songinformation.aspx?ID=1439)
+{{% resource_link "1f0395cd-eebd-4949-b5b1-5442a60e33e6" "The Devil and the Farmer's Wife" %}}
