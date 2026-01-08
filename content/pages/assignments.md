@@ -11,7 +11,7 @@ Every student will write two pieces of fiction. These may be short stories or ch
 
 Each major piece will be submitted to workshop and rewritten. Every student will be required to finish two pieces of fiction at the end of the class.
 
-**Writing resource:** {{% resource_link "addc54ba-2d9f-4dc1-bc9f-4dbec8d307ce" "8 Unstoppable Rules for Writing Killer Short Stories" %}}
+**Writing resource:** [8 Unstoppable Rules for Writing Killer Short Stories](http://io9.gizmodo.com/366707/8-unstoppable-rules-for-writing-killer-short-stories)
 
 Sample Student Work
 -------------------
